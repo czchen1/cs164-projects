@@ -1,0 +1,8 @@
+x = [1, 2, 3]
+print x[1]
+print x[:]
+print x[-1:]
+print x[:10]
+print x[-2:-1]
+print x[2:]
+print x[2:-1]

@@ -1,0 +1,7 @@
+[1, 2, 3]
+['a', 1, 3]
+['ab', 'abc']
+['', '']
+Input file: C:\FOO contains	"Hello, World!"
+
+['Input file: C:\\FOO contains\t"Hello, World!"\n']

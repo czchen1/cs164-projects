@@ -1,0 +1,1 @@
+$Sometype::i = 4

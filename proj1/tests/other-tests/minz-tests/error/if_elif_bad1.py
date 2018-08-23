@@ -1,0 +1,5 @@
+if True:
+	elif False:
+		a = 1
+	b = 2
+c = 3`

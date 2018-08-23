@@ -1,0 +1,10 @@
+print 'abc'
+print "abc"
+print ''
+print ""
+print 'a\"b'
+print "a\'b"
+print 'a\'b'
+print "a\"b"
+print 'a"b'
+print "a'b"

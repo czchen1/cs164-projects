@@ -1,0 +1,2 @@
+f(self, x::int)::bool
+True

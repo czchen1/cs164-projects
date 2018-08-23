@@ -1,0 +1,2 @@
+def x()::$None:
+    pass

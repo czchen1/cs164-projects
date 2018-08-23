@@ -1,0 +1,58 @@
+Here is
+a multi line string
+ and here is a single liner
+Parsing is 'Fun'
+Yet another kind of "string"
+here are some escapes: "'
+\e
+
+  \
+here are some escapes: "'
+\e
+
+  \
+here are some escapes: "'
+\e
+
+  \
+here are some escapes: "'
+\e
+
+  \
+here are some escapes: "'
+\e
+
+  \
+here are some escapes: "'
+\e
+
+  \
+Unrecognized escapes: \c\e\,
+Unrecognized escapes: \c\e\,
+
+
+
+
+''123
+Here is
+a multi line string
+ and here is a single liner
+Parsing is 'Fun'
+Yet another kind of "string"
+here are some escapes: \"\'\a\b\t\n\r\e\0\v\f\\
+here are some escapes: \"\'\a\b\t\n\r\e\0\v\f\\
+here are some escapes: \"\'\a\b\t\n\r\e\0\v\f\\
+here are some escapes: \"\'\a\b\t\n\r\e\0\v\f\\
+here are some escapes: "'\a\b\t\n\r\e\0\v\f\\
+here are some escapes: "'\a\b\t\n\r\e\0\v\f\\
+Unrecognized escapes: \c\e\,
+Unrecognized escapes: \c\e\,
+More unrecognized escapes: \X \
+
+
+
+
+
+''123
+Hello, world
+Hello, world

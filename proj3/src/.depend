@@ -1,0 +1,24 @@
+apyc.o: apyc.cc apyc.h ast.h ast-types.i unifier.h environ.h decls.h \
+  resolver.h code.h
+ast.o: ast.cc apyc.h ast.h ast-types.i unifier.h environ.h decls.h \
+  resolver.h code.h
+post1.o: post1.cc apyc.h ast.h ast-types.i unifier.h environ.h decls.h \
+  resolver.h code.h
+unifier.o: unifier.cc unifier.h apyc.h ast.h ast-types.i environ.h \
+  decls.h resolver.h code.h
+environ.o: environ.cc apyc.h ast.h ast-types.i unifier.h environ.h \
+  decls.h resolver.h code.h
+decls.o: decls.cc apyc.h ast.h ast-types.i unifier.h environ.h decls.h \
+  resolver.h code.h
+types.o: types.cc apyc.h ast.h ast-types.i unifier.h environ.h decls.h \
+  resolver.h code.h
+exprs.o: exprs.cc apyc.h ast.h ast-types.i unifier.h environ.h decls.h \
+  resolver.h code.h
+stmts.o: stmts.cc apyc.h ast.h ast-types.i unifier.h environ.h decls.h \
+  resolver.h code.h
+resolver.o: resolver.cc apyc.h ast.h ast-types.i unifier.h environ.h \
+  decls.h resolver.h code.h
+code.o: code.cc apyc.h ast.h ast-types.i unifier.h environ.h decls.h \
+  resolver.h code.h
+apyc-parser.o: apyc-parser.cc apyc.h ast.h ast-types.i unifier.h \
+  environ.h decls.h resolver.h code.h apyc-lexer.cc

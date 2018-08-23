@@ -1,0 +1,5 @@
+apyc.o: apyc.cc apyc.h ast.h ast-types.i
+ast.o: ast.cc apyc.h ast.h ast-types.i
+stmts.o: stmts.cc apyc.h ast.h ast-types.i
+exprs.o: exprs.cc apyc.h ast.h ast-types.i
+apyc-parser.o: apyc-parser.cc apyc.h ast.h ast-types.i apyc-lexer.cc
